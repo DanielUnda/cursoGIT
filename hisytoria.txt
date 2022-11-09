@@ -6,3 +6,11 @@ una linea mas porque no
 y porque no una mas
 prueba ssh
 rama fix agregada
+
+master 1
+
+experimento 1
+
+experimento 2
+
+stashG
