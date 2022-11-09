@@ -13,4 +13,8 @@ experimento 1
 
 experimento 2
 
+cambiso de stash en rama
+
+otro cambio
+
 stashG
